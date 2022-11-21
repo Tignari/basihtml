@@ -1,0 +1,27 @@
+
+    p {
+        width: 200px;
+        text-align: center;
+
+    }
+    #ul{
+        list-style-type: square;
+    }
+    #kapi{
+        list-style-type: circle;
+    }
+    #rer{
+        list-style-type: lower-roman;
+    }
+    #nothing{
+        list-style-type: none;
+    }
+    #pog{
+        list-style-image: url("li.gif");
+    }
+    #pqeg{
+        list-style-type:armenian;
+    }
+    #pqe{
+        list-style-type: upper-alpha;
+    }
